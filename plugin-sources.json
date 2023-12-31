@@ -1,5 +1,11 @@
 [
     {
+        "user": "Semporia",
+        "repo": "TikTok-Unlock",
+        "branch": "master",
+        "paths": ["Loon"]
+    },
+    {
         "user": "chavyleung",
         "repo": "scripts",
         "branch": "master"
@@ -22,7 +28,37 @@
     },
     {
         "user": "VirgilClyne",
-        "repo": "VirgilClyne",
+        "repo": "GetSomeFries",
+        "branch": "main",
+        "paths": ["plugin"]
+    },
+    {
+        "user": "VirgilClyne",
+        "repo": "Cloudflare",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
+        "user": "DualSubs",
+        "repo": "YouTube",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
+        "user": "BiliUniverse",
+        "repo": "Enhanced",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
+        "user": "BiliUniverse",
+        "repo": "Global",
+        "branch": "main",
+        "paths": ["modules"]
+    },
+    {
+        "user": "BiliUniverse",
+        "repo": "ADBlock",
         "branch": "main",
         "paths": ["modules"]
     },
@@ -36,12 +72,6 @@
         "user": "Tartarus2014",
         "repo": "Loon-Script",
         "branch": "master"
-    },
-    {
-        "user": "DualSubs",
-        "repo": "DualSubs",
-        "branch": "main",
-        "paths": ["plugin"]
     },
     {
         "user": "NobyDa",
@@ -63,6 +93,28 @@
         "repo": "Rules",
         "branch": "master",
         "paths": ["Loon"]
+    },
+    {
+        "user": "deezertidal",
+        "repo": "private",
+        "branch": "master",
+        "paths": ["plugallery"]
+    },
+    {
+        "user": "I-am-R-E",
+        "repo": "Functional-Store-Hub",
+        "branch": "Master"
+    },
+    {
+        "user": "chengkongyiban",
+        "repo": "Loon",
+        "branch": "main",
+        "paths": ["Loon-Gallery"]
+    },
+    {
+        "user": "Guding88",
+        "repo": "Script",
+        "branch": "main"
     }
     {
         "user": "Coldvvater",
